@@ -1,0 +1,16 @@
+#bots{
+    display: flex;
+    list-style: none;
+    background-color: black;
+    width: 120px;
+}
+.temp{
+    height: 20px;
+    width: 20px;
+}
+#mostrar{
+    padding-left: 8px;
+}
+section div{
+    display: inline-table;
+}
